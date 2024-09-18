@@ -1,5 +1,5 @@
 ---
-title: 语言笔记
+title: LangMind
 ---
 
 I (the developer) will not collect any data using this application.

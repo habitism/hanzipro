@@ -1,5 +1,5 @@
 ---
-title: 语言笔记
+title: LangMind
 ---
 
 These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (LangMind).
