@@ -2,6 +2,8 @@
 title: 语言笔记
 ---
 
-# 隐私政策
+I (the developer) will not collect any data using this application.
 
-我（开发人员）不会使用此应用程序收集任何数据，您记录的所有信息将仅存储在您的设备和 iCloud 帐户上，其中 iCloud 的数据用于多设备同步。
+All information you record will be stored only on your device and your iCloud account, and will not be accessible to me or anyone else who cannot access your iCloud account.
+
+Information stored on iCloud can be synced across your devices.
