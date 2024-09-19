@@ -4,7 +4,7 @@ title: LangMind
 
 Language is the shell of thought, and thought is the core of language.
 
-If you can express your opinions in your native language, then you can quickly learn to express them in other languages. This is because when you can express your opinions, you have already understood various abstract nouns and have a certain ability for logical reasoning. Expressing in Chinese is just one form of thought expression, and thought can be expressed through different languages.
+If you can express your opinions in your native language, then you can quickly learn to express them in other languages. This is because when you can express your opinions, you have already understood various abstract nouns and have a certain ability for logical reasoning. Expressing in your native language is just one form of thought expression, and thought can be expressed through different languages.
 
 Let me use music theory and musical instruments as an example. Jay Chou has a talent for music, and he can display his talent through the piano. He has his own understanding of music, including the use of chords, rhythm control, etc. The piano is just one form of music expression. If he had started with the guitar, he would have been popular as well. For example, Wu Bai, who plays the guitar.
 
@@ -26,7 +26,7 @@ If you want to learn Japanese, then learn the fifty sounds of Japanese first.
 
 This learning process should not exceed one week.
 
-## 2. Expressing Opinions in Chinese
+## 2. Expressing Opinions
 
 Each opinion is unfolded in the form of a topic.
 
@@ -36,9 +36,9 @@ When recording topics, pay attention to more paragraphs. Each paragraph is a pra
 
 ## 3. Translating Topics
 
-Each 'topic' provides a translation function.
+Each topic provides a translation function.
 
-After recording your 'topic', click on the topic to enter the practice phase.
+After recording your topic, click on the topic to enter the practice phase.
 
 You can click `Translate Topic`, at this time the system will help you translate your content into the target language, such as English, Japanese, etc. At this time, you click on the translation, and the system will recite, and you can practice pronunciation with the system.
 
