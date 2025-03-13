@@ -22,7 +22,7 @@ Ownership and intellectual property rights of the application belong to the deve
 
 ### 4. Privacy Policy
 
-Users must comply with the developer's [Privacy Policy](./google/privacy) when using the application.
+Users must comply with the developer's [Privacy Policy](./privacy) when using the application.
 
 ### 5. Termination
 
