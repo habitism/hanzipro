@@ -1,5 +1,5 @@
 ---
-title: LangMind
+title: HanziPro
 ---
 
 I (the developer) will not collect any data using this application.

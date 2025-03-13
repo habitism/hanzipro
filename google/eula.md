@@ -2,7 +2,7 @@
 title: HanziPro
 ---
 
-These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (HanziPro).
+These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (LangMind).
 
 ### 1. Grant of License
 
@@ -22,7 +22,7 @@ Ownership and intellectual property rights of the application belong to the deve
 
 ### 4. Privacy Policy
 
-Users must comply with the developer's [Privacy Policy](./privacy) when using the application.
+Users must comply with the developer's [Privacy Policy](./google/privacy) when using the application.
 
 ### 5. Termination
 
