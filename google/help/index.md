@@ -9,6 +9,4 @@ title: Help
   }
 </style>
 
-# help
-
 - [No sound](./no_sound/no_sound.md)
