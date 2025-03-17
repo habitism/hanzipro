@@ -4,4 +4,4 @@ permalink: /google/help.html
 title: Help
 ---
 
-- [No sound](./no_sound/no_sound.md)
+- [No sound](/hanzipro/google/help/no_sound)

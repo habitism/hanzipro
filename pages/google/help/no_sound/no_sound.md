@@ -4,7 +4,7 @@ permalink: /google/help/no_sound.html
 title: No Sound
 ---
 
-[Back to Help](../index.md)
+[Back to Help](/hanzipro/google/help)
 
 ## How to Set Text-to-Speech Language to Chinese
 
@@ -22,5 +22,5 @@ title: No Sound
 4. Tap **Install voice data**.
 5. Swipe to the voice data you'd like to install. Far thehenSamsung engine, tap the download icon, and tap **Download**. For the Google engine, tap the language, and then tap the download icon.
 
-![down new voices](../images/no_sound.png)
+![down new voices](/hanzipro/pages/google/help/images/no_sound.png)
 
