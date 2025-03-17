@@ -1,5 +1,7 @@
 ---
-title: HanziPro
+layout: page
+permalink: /eula.html
+title: Eula
 ---
 
 These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (HanziPro).

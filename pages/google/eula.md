@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /google/eula.html
 title: HanziPro
 ---
 

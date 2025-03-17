@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /privacy.html
 title: HanziPro
 ---
 

@@ -1,8 +1,10 @@
 ---
+layout: page
+permalink: /google/privacy.html
 title: HanziPro
 ---
 
-**Privacy Policy**
+# Privacy Policy
 
 We highly value your privacy and personal information and are committed to protecting it. When you use our services, we may collect and use certain necessary information to ensure the normal use of the services. Through this Privacy Policy, we aim to explain how we collect, use, store, and share your information when using our services, and the ways we provide you with access, updates, control, and protection of that information. This Privacy Policy is closely related to the Habitualism application you use. **Please read and understand this Privacy Policy carefully before using our products and services. By using our products or services after confirming that you fully understand and agree to this policy, you agree to the collection, use, storage, and sharing of your relevant information as described in this Privacy Policy.** If you have any questions, comments, or suggestions about this policy, you can contact us through the various contact methods provided in this Privacy Policy.
 

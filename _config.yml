@@ -1,11 +1,3 @@
 title: HanziPro
 description: Learn a new language, see a new world.
 baseurl: "/hanzipro"
-
-# default layout of the articles in _posts
-defaults:
-  - scope:
-      path: "pages"
-      type: ""
-    values:
-      layout: "page"

@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /google/help/no_sound.html
 title: No Sound
 ---
 
