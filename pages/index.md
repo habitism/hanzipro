@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /index.html
-title: HanziPro
+title: Home
 ---
 
 HanziPro is specifically designed for native English speakers, helping them easily learn Chinese pinyin and character writing. The app is primarily aimed at beginners, starting from scratch and gradually mastering Chinese pronunciation and writing skills. With vivid audio and writing animations, it helps users quickly remember the pronunciation and structure of pinyin and Chinese characters, making Chinese learning simple and efficient.
