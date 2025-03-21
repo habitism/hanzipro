@@ -4,9 +4,12 @@ permalink: /index.html
 title: Home
 ---
 
-HanziPro is specifically designed for native English speakers, helping them easily learn Chinese pinyin and character writing. The app is primarily aimed at beginners, starting from scratch and gradually mastering Chinese pronunciation and writing skills. With vivid audio and writing animations, it helps users quickly remember the pronunciation and structure of pinyin and Chinese characters, making Chinese learning simple and efficient.
+HanziPro is a mandarin app.
 
-The Chinese courses in this app are carefully selected high-frequency topics that you can quickly apply to your daily life.
+- [iOS version](https://apps.apple.com/us/app/hanzipro/id6670532165)
+- [Android version](https://play.google.com/store/apps/details?id=com.habitism.hanzipro)
+
+The app is primarily aimed at beginners, starting from scratch and gradually mastering Chinese pronunciation and writing skills. With vivid audio and writing animations, it helps users quickly remember the pronunciation and structure of pinyin and Chinese characters, making Chinese learning simple and efficient.
 
 The app mainly provides the following features:
 
@@ -20,5 +23,5 @@ For each Chinese character, the app provides accurate pronunciation and writing 
 
 # Review Algorithm
 
-The app breaks down courses into multiple key points. Users can review these points during fragmented time, and the app will automatically plan your learning for you.
+Users can choose words or sentences for learning, and the app will automatically plan your learning for you.
 
