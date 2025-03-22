@@ -16,9 +16,10 @@ If you can speak English and you want to learn Chinese, then this app is designe
 At the same time, we will regularly publish Chinese teaching videos on the following channels:
 
 - [Rednote](https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281)
-- [Youtube](https://www.youtube.com/@dengwenfeng)
+- [Youtube](https://www.youtube.com/@habitist)
 - [Tiktok](https://www.tiktok.com/@habitist)
 - [X / Twitter](https://x.com/whenfung)
+- [Instagram](https://www.instagram.com/hanzipro/)
 
 # Email
 
