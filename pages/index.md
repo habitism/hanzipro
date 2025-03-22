@@ -4,21 +4,22 @@ permalink: /index.html
 title: Home
 ---
 
-HanziPro is a mandarin app.
+HanziPro is a Chinese language app.
 
 - [iOS version](https://apps.apple.com/us/app/hanzipro/id6670532165)
 - [Android version](https://play.google.com/store/apps/details?id=com.habitism.hanzipro)
 
-If you can speak English and you want to learn Chinese, then this app is designed for you. The app mainly provides the following features:
+If you can speak English and you want to learn Chinese, then this app is designed for you.
 
-# High Quality Courses
+# Videos
 
-Each course is organized by topic, allowing users to quickly understand the most practical Chinese.
+At the same time, we will regularly publish Chinese teaching videos on the following channels:
 
-# Pinyin and Writing
+- [Rednote](https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281)
+- [Youtube](https://www.youtube.com/@dengwenfeng)
+- [Tiktok](https://www.tiktok.com/@habitist)
+- [X / Twitter](https://x.com/whenfung)
 
-For each Chinese character, the app provides accurate pronunciation and writing guidance, enabling you to quickly master the characters.
+# Email
 
-# Review Algorithm
-
-Users can select words or sentences for review, and the app will automatically create a review plan for you.
+At the same time, if you have any suggestions, you can also contact me directly via email: whenfung@gmail.com.
