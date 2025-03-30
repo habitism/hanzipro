@@ -8,7 +8,7 @@ title: No Sound
 
 ## How to Set Text-to-Speech Language to Chinese
 
-1. Open **Settings**.
+1. Open **Settings** of your cellphone (not in the app).
 2. Swipe to and then tap **General management**.
 3. Tap **Text-to-speech**.
 4. Set the language to **Chinese**.
