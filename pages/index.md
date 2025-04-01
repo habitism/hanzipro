@@ -13,7 +13,7 @@ If you can speak English and you want to learn Chinese, then this app is designe
 
 # Videos
 
-At the same time, we will regularly publish Chinese teaching videos on the following channels:
+We will regularly publish Chinese teaching videos on the following channels:
 
 - [Rednote](https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281)
 - [Youtube](https://www.youtube.com/@habitist)
@@ -23,4 +23,4 @@ At the same time, we will regularly publish Chinese teaching videos on the follo
 
 # Email
 
-At the same time, if you have any suggestions, you can also contact me directly via email: whenfung@gmail.com.
+If you have any suggestions, you can also contact me directly via email: whenfung@gmail.com.
