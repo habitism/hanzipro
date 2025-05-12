@@ -18,8 +18,6 @@ If you want to learn Chinese, learning to use a Chinese keyboard is very importa
 
 Once added, you can switch between keyboards by tapping or holding the **globe icon 🌐** on your keyboard.
 
----
-
 # For Samsung (Android)
 
 1. Open the **Settings** app.
