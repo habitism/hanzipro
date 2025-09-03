@@ -8,7 +8,7 @@ title: No Sound
 
 ## How to Set Text-to-Speech Language to Chinese
 
-1. Open **Settings** of your cellphone (not in the app).
+1. Open **System Settings** of your cellphone.
 2. Swipe to and then tap **General management**.
 3. Tap **Text-to-speech**.
 4. Set the language to **Chinese**.
@@ -20,7 +20,7 @@ title: No Sound
 2. Tap **Text-to-speech**.
 3. Tap the **Settings** icon next to **Preferred engine**.
 4. Tap **Install voice data**.
-5. Swipe to the voice data you'd like to install. Far thehenSamsung engine, tap the download icon, and tap **Download**. For the Google engine, tap the language, and then tap the download icon.
+5. Swipe to the voice data you'd like to install. For the Samsung engine, tap the download icon, and tap **Download**. For the Google engine, tap the language, and then tap the download icon.
 
 ![down new voices](/hanzipro/pages/google/help/images/no_sound.png)
 
