@@ -15,11 +15,13 @@ If you can speak English and you want to learn Chinese, then this app is designe
 
 We will regularly publish Chinese teaching videos on the following channels:
 
+- [Tiktok](https://www.tiktok.com/@habitist)
+- [Instagram](https://www.instagram.com/hanzipro/)
 - [Rednote](https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281)
 - [Youtube](https://www.youtube.com/@habitist)
-- [Tiktok](https://www.tiktok.com/@habitist)
+- [Threads](https://www.threads.com/@hanzipro)
 - [X / Twitter](https://x.com/whenfung)
-- [Instagram](https://www.instagram.com/hanzipro/)
+- [Discord](https://discord.gg/9b33pRBuEn)
 
 # Email
 
