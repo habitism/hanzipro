@@ -17,6 +17,7 @@ We will regularly publish Chinese teaching videos on the following channels:
 
 - [Tiktok](https://www.tiktok.com/@habitist)
 - [Instagram](https://www.instagram.com/hanzipro/)
+- [Facebook](https://www.facebook.com/habitism)
 - [Rednote](https://www.xiaohongshu.com/user/profile/65bb0d64000000000e025281)
 - [Youtube](https://www.youtube.com/@habitist)
 - [Threads](https://www.threads.com/@hanzipro)
