@@ -101,11 +101,11 @@ video {
 }
 
 iframe {
-  overflow: none;      // Remove scroll bar
-  border: 0;           // Remove embedded border 
+  overflow: none;   // Remove scroll bar
+  border: 0;        // Remove embedded border 
 }
 
-// iframe video ratio is 16: 9
+// 只能用在 page 布局（因为 default 没有 padding）
 .video {
 	width: 100vw;
 	height: 56.25vw;
@@ -116,6 +116,18 @@ iframe {
 	  height: 405px;
 	  margin-left: 0;
 	}
+}
+
+// 只能用在 default 布局（因为 page 有 padding）
+.shorts {
+  width: 100vw;
+  height: 177.78vw;
+
+  @media (min-width: 38rem) {
+    width: 100%;
+    height: 640px;
+    margin-left: 0;
+  }
 }
 
 .task-list-item-checkbox {
